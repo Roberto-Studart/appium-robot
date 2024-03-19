@@ -1,23 +1,22 @@
-###Bem vindo###
-Este repositório trata-se do uso entre o Robot Framework e o Appium!
-O APP e todos os exemplos aqui exibidos foram resultados de estudos através do curso
-de Robot Framework + Appium do Fernando Papito!
+# Welcome to Yodapp Robot 🤖
 
-**O que encontraremos?**
-1. Configuração de ambiente de teste:
- -Onde meus relatórios devem ficar?
- -Onde meus testes ficarão guardados?
- -De onde vira a massa?
- -Onde organizo minha biblioteca de apps?
+This repository is all about using Robot Framework and Appium! The app and examples showcased here are the result of studying the Robot Framework + Appium course by Fernando Papito.
 
-2. Uso de keywords:
- -O que são keywords?
- -No que me serão uteis?
- -Como posso usar?
+## What will you find here? 📚
 
-3. Trabalho com reuso de código:
- -Até onde vai o reuso do código?
- -Qual importância de encapsulamento?
+1. Test environment configuration:
+    - Where should my reports be?
+    - Where will my tests be stored?
+    - Where does the data come from?
+    - Where do I organize my app library?
 
-Ainda sim recomendo fortemente acessar a plataforma: https://qax.com.br/pt realize seu cadastro
-e aprenda bastante!
+2. Keyword usage:
+    - What are keywords?
+    - How can they be useful to me?
+    - How do I use them?
+
+3. Code reuse:
+    - How far does code reuse go?
+    - What is the importance of encapsulation?
+
+I strongly recommend accessing the platform [here](https://qax.com.br/pt), registering yourself, and learning a lot! 🚀
