@@ -1,3 +1,4 @@
 node_modules
 tests/outsider
+github.crt
 resources/bootcamp.resource
