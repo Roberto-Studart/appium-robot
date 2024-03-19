@@ -1,4 +1,3 @@
 node_modules
-tests/outsider
+tests/outsider/BFS.robot
 github.crt
-resources/bootcamp.resource
